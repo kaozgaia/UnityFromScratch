@@ -1,6 +1,9 @@
 {
     "name": "com.b2bg.unityfromscrach_fsm",
-    "references": [],
+    "references": [
+        "com.b2bg.unityfromscrach_utils",
+        "com.b2bg.serializabledictionary"
+    ],
     "optionalUnityReferences": [],
     "includePlatforms": [],
     "excludePlatforms": [],
