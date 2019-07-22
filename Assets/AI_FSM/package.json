@@ -4,9 +4,6 @@
     "displayName": "FSM Template for Unity",
     "description": "AI Template using Finite State Machine",
     "unity": "2018.3.3",
-    "dependencies": {
-      "com.b2bg.Utils": "https://github.com/kaozgaia/UnityFromScratch.git#B2BG-Utils"
-    },
     "keywords": [
       "AI",
       "Artificial Inteligence",
