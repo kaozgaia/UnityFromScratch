@@ -1,13 +1,16 @@
 {
-    "name": "com.b2bg.unityfromscrach",
-    "version": "0.0.1",
-    "displayName": "Unity from scratch",
-    "description": "Proyect just for fun",
+    "name": "com.b2bg.AI_FSM",
+    "version": "0.0.11",
+    "displayName": "FSM Template for Unity",
+    "description": "AI Template using Finite State Machine",
     "unity": "2018.3.3",
+    "dependencies": {
+      "com.b2bg.Utils": "https://github.com/kaozgaia/UnityFromScratch.git#B2BG-Utils"
+    },
     "keywords": [
-      "keyword1",
-      "keyword2",
-      "keyword3"
+      "AI",
+      "Artificial Inteligence",
+      "FSM"
     ],
     "author": {
       "name": "Christian Fernandez",
