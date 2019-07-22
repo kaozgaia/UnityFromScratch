@@ -1,11 +1,13 @@
 {
     "name": "com.b2bg.Utils",
-    "version": "0.0.13",
-    "displayName": "Utils for common problems",
-    "description": "Code to solve common problems in Unity",
+    "version": "1.0.13",
+    "displayName": "Unity from scratch",
+    "description": "Proyect just for fun",
     "unity": "2018.3.3",
     "keywords": [
-      "Utils"
+      "keyword1",
+      "keyword2",
+      "keyword3"
     ],
     "author": {
       "name": "Christian Fernandez",
