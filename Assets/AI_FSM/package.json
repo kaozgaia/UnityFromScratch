@@ -1,6 +1,6 @@
 {
     "name": "com.b2bg.AI_FSM",
-    "version": "0.0.11",
+    "version": "0.0.13",
     "displayName": "FSM Template for Unity",
     "description": "AI Template using Finite State Machine",
     "unity": "2018.3.3",

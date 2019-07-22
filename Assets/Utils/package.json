@@ -1,6 +1,6 @@
 {
     "name": "com.b2bg.Utils",
-    "version": "0.0.1",
+    "version": "0.0.13",
     "displayName": "Utils for common problems",
     "description": "Code to solve common problems in Unity",
     "unity": "2018.3.3",
